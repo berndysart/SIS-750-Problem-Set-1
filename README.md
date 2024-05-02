@@ -2,7 +2,7 @@
 
 ## Overview
 
-This was an assignment for SIS 750 - Data Analaysis for Dr Austin Hart in Spring 2024 at American University in Washington DC. 
+This was an assignment for SIS 750 - Data Analysis for Dr Austin Hart in Spring 2024 at American University in Washington DC. 
 
 The purpose of this first problem set was to have the class get reacquainted with R and experience using R markdown for the production of formal deliverables. The class was tasked with completing 5 questions.
 
