@@ -1,6 +1,6 @@
 # Problem Set 1
 
-# Overview
+## Overview
 
 This was an assignment for SIS 750 - Data Analaysis for Dr Austin Hart in Spring 2024 at American University in Washington DC. 
 
