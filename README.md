@@ -18,5 +18,5 @@ The purpose of this first problem set was to have the class get reacquainted wit
 - Question 4
   - Create a basic plot that also uses facet wrap using the variables of gdpperCap and life expectancy. 
   
--Question 5
+- Question 5
   - Unrelated code to practice spacing and lines for clean reading
